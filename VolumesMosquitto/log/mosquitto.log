@@ -1,0 +1,50 @@
+1765441682: mosquitto version 2.0.22 starting
+1765441682: Config loaded from /mosquitto/config/mosquitto.conf.
+1765441682: Opening ipv4 listen socket on port 1883.
+1765441682: Opening ipv6 listen socket on port 1883.
+1765441682: mosquitto version 2.0.22 running
+1765441876: mosquitto version 2.0.22 terminating
+1765441885: mosquitto version 2.0.22 starting
+1765441885: Config loaded from /mosquitto/config/mosquitto.conf.
+1765441885: Opening ipv4 listen socket on port 1883.
+1765441885: Opening ipv6 listen socket on port 1883.
+1765441885: mosquitto version 2.0.22 running
+1765442098: New connection from 172.18.0.1:42542 on port 1883.
+1765442098: New client connected from 172.18.0.1:42542 as postman-mqtt-client-1765442097453 (p5, c0, k60).
+1765442098: No will message specified.
+1765442098: Sending CONNACK to postman-mqtt-client-1765442097453 (0, 0)
+1765442098: Received SUBSCRIBE from postman-mqtt-client-1765442097453
+1765442098: 	TopicControle (QoS 0)
+1765442098: postman-mqtt-client-1765442097453 0 TopicControle
+1765442098: Sending SUBACK to postman-mqtt-client-1765442097453
+1765442098: Received SUBSCRIBE from postman-mqtt-client-1765442097453
+1765442098: 	BTS (QoS 0)
+1765442098: postman-mqtt-client-1765442097453 0 BTS
+1765442098: Sending SUBACK to postman-mqtt-client-1765442097453
+1765442150: Received UNSUBSCRIBE from postman-mqtt-client-1765442097453
+1765442150: 	BTS
+1765442150: postman-mqtt-client-1765442097453 BTS
+1765442150: Sending UNSUBACK to postman-mqtt-client-1765442097453
+1765442210: Received PINGREQ from postman-mqtt-client-1765442097453
+1765442210: Sending PINGRESP to postman-mqtt-client-1765442097453
+1765442270: Received PINGREQ from postman-mqtt-client-1765442097453
+1765442270: Sending PINGRESP to postman-mqtt-client-1765442097453
+1765442302: Received PUBLISH from postman-mqtt-client-1765442097453 (d0, q0, r0, m0, 'test', ... (6 bytes))
+1765442321: Received PUBLISH from postman-mqtt-client-1765442097453 (d0, q0, r0, m0, 'pubMosq', ... (6 bytes))
+1765442323: Received PUBLISH from postman-mqtt-client-1765442097453 (d0, q0, r0, m0, 'pubMosq', ... (6 bytes))
+1765442383: Received PINGREQ from postman-mqtt-client-1765442097453
+1765442383: Sending PINGRESP to postman-mqtt-client-1765442097453
+1765442427: Received DISCONNECT from postman-mqtt-client-1765442097453
+1765442427: Client postman-mqtt-client-1765442097453 disconnected.
+1765442739: New connection from 172.18.0.1:37450 on port 1883.
+1765442739: New client connected from 172.18.0.1:37450 as postman-mqtt-client-1765442739770 (p5, c0, k60).
+1765442739: No will message specified.
+1765442739: Sending CONNACK to postman-mqtt-client-1765442739770 (0, 0)
+1765442739: Received SUBSCRIBE from postman-mqtt-client-1765442739770
+1765442739: 	TopicControle (QoS 0)
+1765442739: postman-mqtt-client-1765442739770 0 TopicControle
+1765442739: Sending SUBACK to postman-mqtt-client-1765442739770
+1765442759: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (7 bytes))
+1765442759: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (7 bytes))
+1765442819: Received PINGREQ from postman-mqtt-client-1765442739770
+1765442819: Sending PINGRESP to postman-mqtt-client-1765442739770
