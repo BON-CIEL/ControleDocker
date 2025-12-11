@@ -104,3 +104,621 @@
 1765444413: Opening ipv4 listen socket on port 1883.
 1765444413: Opening ipv6 listen socket on port 1883.
 1765444413: mosquitto version 2.0.22 running
+1765446073: mosquitto version 2.0.22 terminating
+1765446079: mosquitto version 2.0.22 starting
+1765446079: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446079: Opening ipv4 listen socket on port 1883.
+1765446079: Opening ipv6 listen socket on port 1883.
+1765446079: mosquitto version 2.0.22 running
+1765446423: mosquitto version 2.0.22 terminating
+1765446428: mosquitto version 2.0.22 starting
+1765446428: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446428: Opening ipv4 listen socket on port 1883.
+1765446428: Opening ipv6 listen socket on port 1883.
+1765446428: Opening ipv4 listen socket on port 9005.
+1765446428: Opening ipv6 listen socket on port 9005.
+1765446428: mosquitto version 2.0.22 running
+1765446451: New connection from 172.18.0.1:44382 on port 9005.
+1765446451: Client <unknown> disconnected due to protocol error.
+1765446452: New connection from 172.18.0.1:44396 on port 9005.
+1765446452: Client <unknown> disconnected due to protocol error.
+1765446454: New connection from 172.18.0.1:44408 on port 9005.
+1765446454: Client <unknown> disconnected due to protocol error.
+1765446454: New connection from 172.18.0.1:44414 on port 9005.
+1765446454: Client <unknown> disconnected due to protocol error.
+1765446455: New connection from 172.18.0.1:44422 on port 9005.
+1765446455: Client <unknown> disconnected due to protocol error.
+1765446455: New connection from 172.18.0.1:44436 on port 9005.
+1765446455: Client <unknown> disconnected due to protocol error.
+1765446456: New connection from 172.18.0.1:44448 on port 9005.
+1765446456: Client <unknown> disconnected due to protocol error.
+1765446458: New connection from 172.18.0.1:44450 on port 9005.
+1765446458: Client <unknown> disconnected due to protocol error.
+1765446458: New connection from 172.18.0.1:44456 on port 9005.
+1765446458: Client <unknown> disconnected due to protocol error.
+1765446459: New connection from 172.18.0.1:44462 on port 9005.
+1765446459: Client <unknown> disconnected due to protocol error.
+1765446459: New connection from 172.18.0.1:44474 on port 9005.
+1765446459: Client <unknown> disconnected due to protocol error.
+1765446460: New connection from 172.18.0.1:45038 on port 9005.
+1765446460: Client <unknown> disconnected due to protocol error.
+1765446462: New connection from 172.18.0.1:45042 on port 9005.
+1765446462: Client <unknown> disconnected due to protocol error.
+1765446463: New connection from 172.18.0.1:45056 on port 9005.
+1765446463: Client <unknown> disconnected due to protocol error.
+1765446464: New connection from 172.18.0.1:45064 on port 9005.
+1765446464: Client <unknown> disconnected due to protocol error.
+1765446465: New connection from 172.18.0.1:45070 on port 9005.
+1765446465: Client <unknown> disconnected due to protocol error.
+1765446466: New connection from 172.18.0.1:45086 on port 9005.
+1765446466: Client <unknown> disconnected due to protocol error.
+1765446469: New connection from 172.18.0.1:45090 on port 9005.
+1765446469: Client <unknown> disconnected due to protocol error.
+1765446471: New connection from 172.18.0.1:40104 on port 9005.
+1765446471: Client <unknown> disconnected due to protocol error.
+1765446473: New connection from 172.18.0.1:40116 on port 9005.
+1765446473: Client <unknown> disconnected due to protocol error.
+1765446473: New connection from 172.18.0.1:40122 on port 9005.
+1765446473: Client <unknown> disconnected due to protocol error.
+1765446478: New connection from 172.18.0.1:40138 on port 9005.
+1765446478: Client <unknown> disconnected due to protocol error.
+1765446478: New connection from 172.18.0.1:40148 on port 9005.
+1765446478: Client <unknown> disconnected due to protocol error.
+1765446479: New connection from 172.18.0.1:40158 on port 9005.
+1765446479: Client <unknown> disconnected due to protocol error.
+1765446481: New connection from 172.18.0.1:35408 on port 9005.
+1765446481: Client <unknown> disconnected due to protocol error.
+1765446484: New connection from 172.18.0.1:35424 on port 9005.
+1765446484: Client <unknown> disconnected due to protocol error.
+1765446486: New connection from 172.18.0.1:35436 on port 9005.
+1765446486: Client <unknown> disconnected due to protocol error.
+1765446486: New connection from 172.18.0.1:35440 on port 9005.
+1765446486: Client <unknown> disconnected due to protocol error.
+1765446487: New connection from 172.18.0.1:35444 on port 9005.
+1765446487: Client <unknown> disconnected due to protocol error.
+1765446490: New connection from 172.18.0.1:51784 on port 9005.
+1765446490: Client <unknown> disconnected due to protocol error.
+1765446492: New connection from 172.18.0.1:51792 on port 9005.
+1765446492: Client <unknown> disconnected due to protocol error.
+1765446494: New connection from 172.18.0.1:51798 on port 9005.
+1765446494: Client <unknown> disconnected due to protocol error.
+1765446495: New connection from 172.18.0.1:51814 on port 9005.
+1765446495: Client <unknown> disconnected due to protocol error.
+1765446496: New connection from 172.18.0.1:51818 on port 9005.
+1765446496: Client <unknown> disconnected due to protocol error.
+1765446498: New connection from 172.18.0.1:51832 on port 9005.
+1765446498: Client <unknown> disconnected due to protocol error.
+1765446500: New connection from 172.18.0.1:38820 on port 9005.
+1765446500: Client <unknown> disconnected due to protocol error.
+1765446500: New connection from 172.18.0.1:38824 on port 9005.
+1765446500: Client <unknown> disconnected due to protocol error.
+1765446502: New connection from 172.18.0.1:38834 on port 9005.
+1765446502: Client <unknown> disconnected due to protocol error.
+1765446505: New connection from 172.18.0.1:38846 on port 9005.
+1765446505: Client <unknown> disconnected due to protocol error.
+1765446506: New connection from 172.18.0.1:38850 on port 9005.
+1765446506: Client <unknown> disconnected due to protocol error.
+1765446508: New connection from 172.18.0.1:38864 on port 9005.
+1765446508: Client <unknown> disconnected due to protocol error.
+1765446508: New connection from 172.18.0.1:38874 on port 9005.
+1765446508: Client <unknown> disconnected due to protocol error.
+1765446514: New connection from 172.18.0.1:40698 on port 9005.
+1765446514: Client <unknown> disconnected due to protocol error.
+1765446514: New connection from 172.18.0.1:40708 on port 9005.
+1765446514: Client <unknown> disconnected due to protocol error.
+1765446514: New connection from 172.18.0.1:40724 on port 9005.
+1765446514: Client <unknown> disconnected due to protocol error.
+1765446516: New connection from 172.18.0.1:40740 on port 9005.
+1765446516: Client <unknown> disconnected due to protocol error.
+1765446519: New connection from 172.18.0.1:56012 on port 9005.
+1765446519: Client <unknown> disconnected due to protocol error.
+1765446520: New connection from 172.18.0.1:56022 on port 9005.
+1765446520: Client <unknown> disconnected due to protocol error.
+1765446523: New connection from 172.18.0.1:56038 on port 9005.
+1765446523: Client <unknown> disconnected due to protocol error.
+1765446524: New connection from 172.18.0.1:56052 on port 9005.
+1765446524: Client <unknown> disconnected due to protocol error.
+1765446524: New connection from 172.18.0.1:56060 on port 9005.
+1765446524: Client <unknown> disconnected due to protocol error.
+1765446526: New connection from 172.18.0.1:56076 on port 9005.
+1765446526: Client <unknown> disconnected due to protocol error.
+1765446530: New connection from 172.18.0.1:59952 on port 9005.
+1765446530: Client <unknown> disconnected due to protocol error.
+1765446531: New connection from 172.18.0.1:59954 on port 9005.
+1765446531: Client <unknown> disconnected due to protocol error.
+1765446531: New connection from 172.18.0.1:59964 on port 9005.
+1765446531: Client <unknown> disconnected due to protocol error.
+1765446535: New connection from 172.18.0.1:59976 on port 9005.
+1765446535: Client <unknown> disconnected due to protocol error.
+1765446536: New connection from 172.18.0.1:59984 on port 9005.
+1765446536: Client <unknown> disconnected due to protocol error.
+1765446537: New connection from 172.18.0.1:60000 on port 9005.
+1765446537: Client <unknown> disconnected due to protocol error.
+1765446538: New connection from 172.18.0.1:60012 on port 9005.
+1765446538: Client <unknown> disconnected due to protocol error.
+1765446541: New connection from 172.18.0.1:39760 on port 9005.
+1765446541: Client <unknown> disconnected due to protocol error.
+1765446543: New connection from 172.18.0.1:39772 on port 9005.
+1765446543: Client <unknown> disconnected due to protocol error.
+1765446543: New connection from 172.18.0.1:39784 on port 9005.
+1765446543: Client <unknown> disconnected due to protocol error.
+1765446544: New connection from 172.18.0.1:39794 on port 9005.
+1765446544: Client <unknown> disconnected due to protocol error.
+1765446548: New connection from 172.18.0.1:39810 on port 9005.
+1765446548: Client <unknown> disconnected due to protocol error.
+1765446549: New connection from 172.18.0.1:38112 on port 9005.
+1765446549: Client <unknown> disconnected due to protocol error.
+1765446549: New connection from 172.18.0.1:38120 on port 9005.
+1765446549: Client <unknown> disconnected due to protocol error.
+1765446552: New connection from 172.18.0.1:38126 on port 9005.
+1765446552: Client <unknown> disconnected due to protocol error.
+1765446553: New connection from 172.18.0.1:38142 on port 9005.
+1765446553: Client <unknown> disconnected due to protocol error.
+1765446556: New connection from 172.18.0.1:38144 on port 9005.
+1765446556: Client <unknown> disconnected due to protocol error.
+1765446557: New connection from 172.18.0.1:38152 on port 9005.
+1765446557: Client <unknown> disconnected due to protocol error.
+1765446560: New connection from 172.18.0.1:57618 on port 9005.
+1765446560: Client <unknown> disconnected due to protocol error.
+1765446560: New connection from 172.18.0.1:57630 on port 9005.
+1765446560: Client <unknown> disconnected due to protocol error.
+1765446563: New connection from 172.18.0.1:57640 on port 9005.
+1765446563: Client <unknown> disconnected due to protocol error.
+1765446564: New connection from 172.18.0.1:57652 on port 9005.
+1765446564: Client <unknown> disconnected due to protocol error.
+1765446568: New connection from 172.18.0.1:57654 on port 9005.
+1765446568: Client <unknown> disconnected due to protocol error.
+1765446569: New connection from 172.18.0.1:57664 on port 9005.
+1765446569: Client <unknown> disconnected due to protocol error.
+1765446570: New connection from 172.18.0.1:37750 on port 9005.
+1765446570: Client <unknown> disconnected due to protocol error.
+1765446572: New connection from 172.18.0.1:37764 on port 9005.
+1765446572: Client <unknown> disconnected due to protocol error.
+1765446574: New connection from 172.18.0.1:37774 on port 9005.
+1765446574: Client <unknown> disconnected due to protocol error.
+1765446576: New connection from 172.18.0.1:37776 on port 9005.
+1765446576: Client <unknown> disconnected due to protocol error.
+1765446577: New connection from 172.18.0.1:37784 on port 9005.
+1765446577: Client <unknown> disconnected due to protocol error.
+1765446578: New connection from 172.18.0.1:37796 on port 9005.
+1765446578: Client <unknown> disconnected due to protocol error.
+1765446579: New connection from 172.18.0.1:37804 on port 9005.
+1765446579: Client <unknown> disconnected due to protocol error.
+1765446583: New connection from 172.18.0.1:52520 on port 9005.
+1765446583: Client <unknown> disconnected due to protocol error.
+1765446584: New connection from 172.18.0.1:52526 on port 9005.
+1765446584: Client <unknown> disconnected due to protocol error.
+1765446585: New connection from 172.18.0.1:52536 on port 9005.
+1765446585: Client <unknown> disconnected due to protocol error.
+1765446587: New connection from 172.18.0.1:52542 on port 9005.
+1765446587: Client <unknown> disconnected due to protocol error.
+1765446589: New connection from 172.18.0.1:52554 on port 9005.
+1765446589: Client <unknown> disconnected due to protocol error.
+1765446589: New connection from 172.18.0.1:52558 on port 9005.
+1765446589: Client <unknown> disconnected due to protocol error.
+1765446591: New connection from 172.18.0.1:37418 on port 9005.
+1765446591: Client <unknown> disconnected due to protocol error.
+1765446594: New connection from 172.18.0.1:37428 on port 9005.
+1765446594: Client <unknown> disconnected due to protocol error.
+1765446596: New connection from 172.18.0.1:37440 on port 9005.
+1765446596: Client <unknown> disconnected due to protocol error.
+1765446597: New connection from 172.18.0.1:37454 on port 9005.
+1765446597: Client <unknown> disconnected due to protocol error.
+1765446597: New connection from 172.18.0.1:37470 on port 9005.
+1765446597: Client <unknown> disconnected due to protocol error.
+1765446602: New connection from 172.18.0.1:48138 on port 9005.
+1765446602: Client <unknown> disconnected due to protocol error.
+1765446602: New connection from 172.18.0.1:48142 on port 9005.
+1765446602: Client <unknown> disconnected due to protocol error.
+1765446604: New connection from 172.18.0.1:48146 on port 9005.
+1765446604: Client <unknown> disconnected due to protocol error.
+1765446604: New connection from 172.18.0.1:48158 on port 9005.
+1765446604: Client <unknown> disconnected due to protocol error.
+1765446609: New connection from 172.18.0.1:48174 on port 9005.
+1765446609: Client <unknown> disconnected due to protocol error.
+1765446609: New connection from 172.18.0.1:47218 on port 9005.
+1765446609: Client <unknown> disconnected due to protocol error.
+1765446610: New connection from 172.18.0.1:47234 on port 9005.
+1765446610: Client <unknown> disconnected due to protocol error.
+1765446610: New connection from 172.18.0.1:47248 on port 9005.
+1765446610: Client <unknown> disconnected due to protocol error.
+1765446615: New connection from 172.18.0.1:47258 on port 9005.
+1765446615: Client <unknown> disconnected due to protocol error.
+1765446616: New connection from 172.18.0.1:47262 on port 9005.
+1765446616: Client <unknown> disconnected due to protocol error.
+1765446617: New connection from 172.18.0.1:47272 on port 9005.
+1765446617: Client <unknown> disconnected due to protocol error.
+1765446618: New connection from 172.18.0.1:47278 on port 9005.
+1765446618: Client <unknown> disconnected due to protocol error.
+1765446620: New connection from 172.18.0.1:57554 on port 9005.
+1765446620: Client <unknown> disconnected due to protocol error.
+1765446623: New connection from 172.18.0.1:57568 on port 9005.
+1765446623: Client <unknown> disconnected due to protocol error.
+1765446624: New connection from 172.18.0.1:57578 on port 9005.
+1765446624: Client <unknown> disconnected due to protocol error.
+1765446625: New connection from 172.18.0.1:57588 on port 9005.
+1765446625: Client <unknown> disconnected due to protocol error.
+1765446625: New connection from 172.18.0.1:57596 on port 9005.
+1765446625: Client <unknown> disconnected due to protocol error.
+1765446629: New connection from 172.18.0.1:57610 on port 9005.
+1765446629: Client <unknown> disconnected due to protocol error.
+1765446630: New connection from 172.18.0.1:32872 on port 9005.
+1765446630: Client <unknown> disconnected due to protocol error.
+1765446632: New connection from 172.18.0.1:32874 on port 9005.
+1765446632: Client <unknown> disconnected due to protocol error.
+1765446632: New connection from 172.18.0.1:32878 on port 9005.
+1765446632: Client <unknown> disconnected due to protocol error.
+1765446635: New connection from 172.18.0.1:32882 on port 9005.
+1765446635: Client <unknown> disconnected due to protocol error.
+1765446637: New connection from 172.18.0.1:32898 on port 9005.
+1765446637: Client <unknown> disconnected due to protocol error.
+1765446638: New connection from 172.18.0.1:32902 on port 9005.
+1765446638: Client <unknown> disconnected due to protocol error.
+1765446638: New connection from 172.18.0.1:32918 on port 9005.
+1765446638: Client <unknown> disconnected due to protocol error.
+1765446642: New connection from 172.18.0.1:38588 on port 9005.
+1765446642: Client <unknown> disconnected due to protocol error.
+1765446644: New connection from 172.18.0.1:38604 on port 9005.
+1765446644: Client <unknown> disconnected due to protocol error.
+1765446646: New connection from 172.18.0.1:38612 on port 9005.
+1765446646: Client <unknown> disconnected due to protocol error.
+1765446648: New connection from 172.18.0.1:38622 on port 9005.
+1765446648: Client <unknown> disconnected due to protocol error.
+1765446650: New connection from 172.18.0.1:56310 on port 9005.
+1765446650: Client <unknown> disconnected due to protocol error.
+1765446651: New connection from 172.18.0.1:56316 on port 9005.
+1765446651: Client <unknown> disconnected due to protocol error.
+1765446651: New connection from 172.18.0.1:56330 on port 9005.
+1765446651: Client <unknown> disconnected due to protocol error.
+1765446654: New connection from 172.18.0.1:56342 on port 9005.
+1765446654: Client <unknown> disconnected due to protocol error.
+1765446657: New connection from 172.18.0.1:56350 on port 9005.
+1765446657: Client <unknown> disconnected due to protocol error.
+1765446657: New connection from 172.18.0.1:56356 on port 9005.
+1765446657: Client <unknown> disconnected due to protocol error.
+1765446658: New connection from 172.18.0.1:56368 on port 9005.
+1765446658: Client <unknown> disconnected due to protocol error.
+1765446663: New connection from 172.18.0.1:49676 on port 9005.
+1765446663: Client <unknown> disconnected due to protocol error.
+1765446663: New connection from 172.18.0.1:49678 on port 9005.
+1765446663: Client <unknown> disconnected due to protocol error.
+1765446664: New connection from 172.18.0.1:49686 on port 9005.
+1765446664: Client <unknown> disconnected due to protocol error.
+1765446667: New connection from 172.18.0.1:49698 on port 9005.
+1765446667: Client <unknown> disconnected due to protocol error.
+1765446670: New connection from 172.18.0.1:55672 on port 9005.
+1765446670: Client <unknown> disconnected due to protocol error.
+1765446670: New connection from 172.18.0.1:55676 on port 9005.
+1765446670: Client <unknown> disconnected due to protocol error.
+1765446673: New connection from 172.18.0.1:55680 on port 9005.
+1765446673: Client <unknown> disconnected due to protocol error.
+1765446674: New connection from 172.18.0.1:55682 on port 9005.
+1765446674: Client <unknown> disconnected due to protocol error.
+1765446677: New connection from 172.18.0.1:55696 on port 9005.
+1765446677: Client <unknown> disconnected due to protocol error.
+1765446679: New connection from 172.18.0.1:55698 on port 9005.
+1765446679: Client <unknown> disconnected due to protocol error.
+1765446681: New connection from 172.18.0.1:47850 on port 9005.
+1765446681: Client <unknown> disconnected due to protocol error.
+1765446682: New connection from 172.18.0.1:47864 on port 9005.
+1765446682: Client <unknown> disconnected due to protocol error.
+1765446685: New connection from 172.18.0.1:47870 on port 9005.
+1765446685: Client <unknown> disconnected due to protocol error.
+1765446686: New connection from 172.18.0.1:47884 on port 9005.
+1765446686: Client <unknown> disconnected due to protocol error.
+1765446687: New connection from 172.18.0.1:47900 on port 9005.
+1765446687: Client <unknown> disconnected due to protocol error.
+1765446691: New connection from 172.18.0.1:35650 on port 9005.
+1765446691: Client <unknown> disconnected due to protocol error.
+1765446692: New connection from 172.18.0.1:35656 on port 9005.
+1765446692: Client <unknown> disconnected due to protocol error.
+1765446693: New connection from 172.18.0.1:35660 on port 9005.
+1765446693: Client <unknown> disconnected due to protocol error.
+1765446696: New connection from 172.18.0.1:35670 on port 9005.
+1765446696: Client <unknown> disconnected due to protocol error.
+1765446698: New connection from 172.18.0.1:35684 on port 9005.
+1765446698: Client <unknown> disconnected due to protocol error.
+1765446699: New connection from 172.18.0.1:60184 on port 9005.
+1765446699: Client <unknown> disconnected due to protocol error.
+1765446702: New connection from 172.18.0.1:60188 on port 9005.
+1765446702: Client <unknown> disconnected due to protocol error.
+1765446704: New connection from 172.18.0.1:60190 on port 9005.
+1765446704: Client <unknown> disconnected due to protocol error.
+1765446704: New connection from 172.18.0.1:60196 on port 9005.
+1765446704: Client <unknown> disconnected due to protocol error.
+1765446706: New connection from 172.18.0.1:60210 on port 9005.
+1765446706: Client <unknown> disconnected due to protocol error.
+1765446709: New connection from 172.18.0.1:60218 on port 9005.
+1765446709: Client <unknown> disconnected due to protocol error.
+1765446712: New connection from 172.18.0.1:42764 on port 9005.
+1765446712: Client <unknown> disconnected due to protocol error.
+1765446713: New connection from 172.18.0.1:42766 on port 9005.
+1765446713: Client <unknown> disconnected due to protocol error.
+1765446713: New connection from 172.18.0.1:42772 on port 9005.
+1765446713: Client <unknown> disconnected due to protocol error.
+1765446716: New connection from 172.18.0.1:42778 on port 9005.
+1765446716: Client <unknown> disconnected due to protocol error.
+1765446719: New connection from 172.18.0.1:42784 on port 9005.
+1765446719: Client <unknown> disconnected due to protocol error.
+1765446721: New connection from 172.18.0.1:38282 on port 9005.
+1765446721: Client <unknown> disconnected due to protocol error.
+1765446722: New connection from 172.18.0.1:38290 on port 9005.
+1765446722: Client <unknown> disconnected due to protocol error.
+1765446723: New connection from 172.18.0.1:38294 on port 9005.
+1765446723: Client <unknown> disconnected due to protocol error.
+1765446725: New connection from 172.18.0.1:38296 on port 9005.
+1765446725: Client <unknown> disconnected due to protocol error.
+1765446729: New connection from 172.18.0.1:38300 on port 9005.
+1765446729: Client <unknown> disconnected due to protocol error.
+1765446729: New connection from 172.18.0.1:38312 on port 9005.
+1765446729: Client <unknown> disconnected due to protocol error.
+1765446730: New connection from 172.18.0.1:41000 on port 9005.
+1765446730: Client <unknown> disconnected due to protocol error.
+1765446730: mosquitto version 2.0.22 terminating
+1765446745: mosquitto version 2.0.22 starting
+1765446745: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446745: Opening ipv4 listen socket on port 1883.
+1765446745: Opening ipv6 listen socket on port 1883.
+1765446745: Opening websockets listen socket on port 9005.
+1765446745: mosquitto version 2.0.22 running
+1765446746: New client connected from 172.18.0.1:57762 as mqttx_756e8839 (p5, c1, k60).
+1765446746: No will message specified.
+1765446746: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446747: Client mqttx_756e8839 already connected, closing old connection.
+1765446747: New client connected from 172.18.0.1:57768 as mqttx_756e8839 (p5, c1, k60).
+1765446747: No will message specified.
+1765446747: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446747: Client mqttx_756e8839 closed its connection.
+1765446751: Client mqttx_756e8839 already connected, closing old connection.
+1765446751: New client connected from 172.18.0.1:59906 as mqttx_756e8839 (p5, c1, k60).
+1765446751: No will message specified.
+1765446751: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446751: Client mqttx_756e8839 closed its connection.
+1765446752: Client mqttx_756e8839 already connected, closing old connection.
+1765446752: New client connected from 172.18.0.1:59922 as mqttx_756e8839 (p5, c1, k60).
+1765446752: No will message specified.
+1765446752: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446752: Client mqttx_756e8839 closed its connection.
+1765446753: Client mqttx_756e8839 already connected, closing old connection.
+1765446753: New client connected from 172.18.0.1:59928 as mqttx_756e8839 (p5, c1, k60).
+1765446753: No will message specified.
+1765446753: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446753: Client mqttx_756e8839 closed its connection.
+1765446758: Client mqttx_756e8839 already connected, closing old connection.
+1765446758: New client connected from 172.18.0.1:59942 as mqttx_756e8839 (p5, c1, k60).
+1765446758: No will message specified.
+1765446758: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446758: Client mqttx_756e8839 closed its connection.
+1765446759: Client mqttx_756e8839 already connected, closing old connection.
+1765446759: New client connected from 172.18.0.1:59958 as mqttx_756e8839 (p5, c1, k60).
+1765446759: No will message specified.
+1765446759: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446759: Client mqttx_756e8839 closed its connection.
+1765446762: Client mqttx_756e8839 already connected, closing old connection.
+1765446762: New client connected from 172.18.0.1:37742 as mqttx_756e8839 (p5, c1, k60).
+1765446762: No will message specified.
+1765446762: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446762: Client mqttx_756e8839 closed its connection.
+1765446762: Client mqttx_756e8839 already connected, closing old connection.
+1765446762: New client connected from 172.18.0.1:37752 as mqttx_756e8839 (p5, c1, k60).
+1765446762: No will message specified.
+1765446762: Sending CONNACK to mqttx_756e8839 (0, 0)
+1765446762: Client mqttx_756e8839 closed its connection.
+1765446763: Client mqttx_756e8839 closed its connection.
+1765446863: New client connected from 172.18.0.1:50056 as mqttx_f7fd79c9 (p5, c1, k60).
+1765446863: No will message specified.
+1765446863: Sending CONNACK to mqttx_f7fd79c9 (0, 0)
+1765446863: Received SUBSCRIBE from mqttx_f7fd79c9
+1765446863: 	BTS (QoS 0)
+1765446863: mqttx_f7fd79c9 0 BTS
+1765446863: Sending SUBACK to mqttx_f7fd79c9
+1765446886: Client mqttx_f7fd79c9 closed its connection.
+1765446908: New client connected from 172.18.0.1:55828 as mqttx_f7fd79c9 (p5, c1, k60).
+1765446908: No will message specified.
+1765446908: Sending CONNACK to mqttx_f7fd79c9 (0, 0)
+1765446908: Received SUBSCRIBE from mqttx_f7fd79c9
+1765446908: 	BTS (QoS 0)
+1765446908: mqttx_f7fd79c9 0 BTS
+1765446908: Sending SUBACK to mqttx_f7fd79c9
+1765446910: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765446910: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765446970: Received PINGREQ from mqttx_f7fd79c9
+1765446970: Sending PINGRESP to mqttx_f7fd79c9
+1765447030: Received PINGREQ from mqttx_f7fd79c9
+1765447030: Sending PINGRESP to mqttx_f7fd79c9
+1765447090: Received PINGREQ from mqttx_f7fd79c9
+1765447090: Sending PINGRESP to mqttx_f7fd79c9
+1765447150: Received PINGREQ from mqttx_f7fd79c9
+1765447150: Sending PINGRESP to mqttx_f7fd79c9
+1765447211: Received PINGREQ from mqttx_f7fd79c9
+1765447211: Sending PINGRESP to mqttx_f7fd79c9
+1765447295: Received PINGREQ from mqttx_f7fd79c9
+1765447295: Sending PINGRESP to mqttx_f7fd79c9
+1765447333: Received PINGREQ from mqttx_f7fd79c9
+1765447333: Sending PINGRESP to mqttx_f7fd79c9
+1765447392: Received PINGREQ from mqttx_f7fd79c9
+1765447392: Sending PINGRESP to mqttx_f7fd79c9
+1765447453: Received PINGREQ from mqttx_f7fd79c9
+1765447453: Sending PINGRESP to mqttx_f7fd79c9
+1765447453: mosquitto version 2.0.22 terminating
+1765447453: Client mqttx_f7fd79c9 closed its connection.
+1765448152: mosquitto version 2.0.22 starting
+1765448152: Config loaded from /mosquitto/config/mosquitto.conf.
+1765448152: Opening ipv4 listen socket on port 1883.
+1765448152: Opening ipv6 listen socket on port 1883.
+1765448152: Opening websockets listen socket on port 9005.
+1765448152: mosquitto version 2.0.22 running
+1765448258: mosquitto version 2.0.22 terminating
+1765448266: mosquitto version 2.0.22 starting
+1765448266: Config loaded from /mosquitto/config/mosquitto.conf.
+1765448266: Opening ipv4 listen socket on port 1883.
+1765448266: Opening ipv6 listen socket on port 1883.
+1765448266: Opening websockets listen socket on port 9005.
+1765448266: mosquitto version 2.0.22 running
+1765448639: mosquitto version 2.0.22 terminating
+1765448643: mosquitto version 2.0.22 starting
+1765448643: Config loaded from /mosquitto/config/mosquitto.conf.
+1765448643: Opening ipv4 listen socket on port 1883.
+1765448643: Opening ipv6 listen socket on port 1883.
+1765448643: Opening websockets listen socket on port 9005.
+1765448643: mosquitto version 2.0.22 running
+1765449073: mosquitto version 2.0.22 terminating
+1765449075: mosquitto version 2.0.22 starting
+1765449075: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449075: Opening ipv4 listen socket on port 1883.
+1765449075: Opening ipv6 listen socket on port 1883.
+1765449075: Opening websockets listen socket on port 9005.
+1765449075: mosquitto version 2.0.22 running
+1765449082: mosquitto version 2.0.22 terminating
+1765449086: mosquitto version 2.0.22 starting
+1765449086: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449086: Opening ipv4 listen socket on port 1883.
+1765449086: Opening ipv6 listen socket on port 1883.
+1765449086: Opening websockets listen socket on port 9005.
+1765449086: mosquitto version 2.0.22 running
+1765449257: mosquitto version 2.0.22 terminating
+1765449264: mosquitto version 2.0.22 starting
+1765449264: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449264: Opening ipv4 listen socket on port 1883.
+1765449264: Opening ipv6 listen socket on port 1883.
+1765449264: Opening websockets listen socket on port 9005.
+1765449264: mosquitto version 2.0.22 running
+1765449477: New connection from ::1:54872 on port 1883.
+1765449477: New client connected from ::1:54872 as auto-46457019-6F8B-ED45-7097-A32BFBBB66E7 (p2, c1, k60).
+1765449477: No will message specified.
+1765449477: Sending CONNACK to auto-46457019-6F8B-ED45-7097-A32BFBBB66E7 (0, 0)
+1765449477: Received SUBSCRIBE from auto-46457019-6F8B-ED45-7097-A32BFBBB66E7
+1765449477: 	# (QoS 0)
+1765449477: auto-46457019-6F8B-ED45-7097-A32BFBBB66E7 0 #
+1765449477: Sending SUBACK to auto-46457019-6F8B-ED45-7097-A32BFBBB66E7
+1765449502: New client connected from 172.18.0.1:45346 as mqttx_f7fd79c9 (p5, c1, k60).
+1765449502: No will message specified.
+1765449502: Sending CONNACK to mqttx_f7fd79c9 (0, 0)
+1765449502: Received SUBSCRIBE from mqttx_f7fd79c9
+1765449502: 	BTS (QoS 0)
+1765449502: mqttx_f7fd79c9 0 BTS
+1765449502: Sending SUBACK to mqttx_f7fd79c9
+1765449504: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449504: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449504: Sending PUBLISH to auto-46457019-6F8B-ED45-7097-A32BFBBB66E7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449509: Received DISCONNECT from auto-46457019-6F8B-ED45-7097-A32BFBBB66E7
+1765449509: Client auto-46457019-6F8B-ED45-7097-A32BFBBB66E7 disconnected.
+1765449534: New connection from ::1:33064 on port 1883.
+1765449534: New client connected from ::1:33064 as auto-2629A044-E9A8-6E4B-D857-39B970CB457E (p2, c1, k60).
+1765449534: No will message specified.
+1765449534: Sending CONNACK to auto-2629A044-E9A8-6E4B-D857-39B970CB457E (0, 0)
+1765449534: Received SUBSCRIBE from auto-2629A044-E9A8-6E4B-D857-39B970CB457E
+1765449534: 	# (QoS 0)
+1765449534: auto-2629A044-E9A8-6E4B-D857-39B970CB457E 0 #
+1765449534: Sending SUBACK to auto-2629A044-E9A8-6E4B-D857-39B970CB457E
+1765449538: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449538: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449538: Sending PUBLISH to auto-2629A044-E9A8-6E4B-D857-39B970CB457E (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449570: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449570: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449570: Sending PUBLISH to auto-2629A044-E9A8-6E4B-D857-39B970CB457E (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449577: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449577: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449577: Sending PUBLISH to auto-2629A044-E9A8-6E4B-D857-39B970CB457E (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449593: Received PINGREQ from auto-2629A044-E9A8-6E4B-D857-39B970CB457E
+1765449593: Sending PINGRESP to auto-2629A044-E9A8-6E4B-D857-39B970CB457E
+1765449638: Received PINGREQ from mqttx_f7fd79c9
+1765449638: Sending PINGRESP to mqttx_f7fd79c9
+1765449651: mosquitto version 2.0.22 terminating
+1765449651: Client mqttx_f7fd79c9 closed its connection.
+1765449660: mosquitto version 2.0.22 starting
+1765449660: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449660: Opening ipv4 listen socket on port 1883.
+1765449660: Opening ipv6 listen socket on port 1883.
+1765449660: Opening websockets listen socket on port 9005.
+1765449660: mosquitto version 2.0.22 running
+1765449663: New client connected from 172.18.0.1:41264 as mqttx_f7fd79c9 (p5, c1, k60).
+1765449663: No will message specified.
+1765449663: Sending CONNACK to mqttx_f7fd79c9 (0, 0)
+1765449663: Received SUBSCRIBE from mqttx_f7fd79c9
+1765449663: 	BTS (QoS 0)
+1765449663: mqttx_f7fd79c9 0 BTS
+1765449663: Sending SUBACK to mqttx_f7fd79c9
+1765449688: New connection from 172.18.0.1:39386 on port 1883.
+1765449688: Client <unknown> disconnected due to protocol error.
+1765449688: New connection from 172.18.0.1:39400 on port 1883.
+1765449688: Client <unknown> disconnected due to protocol error.
+1765449688: New connection from 172.18.0.1:39408 on port 1883.
+1765449688: New connection from 172.18.0.1:39412 on port 1883.
+1765449689: Client <unknown> disconnected due to protocol error.
+1765449689: Client <unknown> disconnected due to protocol error.
+1765449689: New connection from 172.18.0.1:49354 on port 1883.
+1765449689: Client <unknown> disconnected due to protocol error.
+1765449723: Received PINGREQ from mqttx_f7fd79c9
+1765449723: Sending PINGRESP to mqttx_f7fd79c9
+1765449784: Received PINGREQ from mqttx_f7fd79c9
+1765449784: Sending PINGRESP to mqttx_f7fd79c9
+1765449845: Received PINGREQ from mqttx_f7fd79c9
+1765449845: Sending PINGRESP to mqttx_f7fd79c9
+1765449875: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449875: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449875: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449875: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (12 bytes))
+1765449886: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765449886: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765449947: Received PINGREQ from mqttx_f7fd79c9
+1765449947: Sending PINGRESP to mqttx_f7fd79c9
+1765450008: Received PINGREQ from mqttx_f7fd79c9
+1765450008: Sending PINGRESP to mqttx_f7fd79c9
+1765450069: Received PINGREQ from mqttx_f7fd79c9
+1765450069: Sending PINGRESP to mqttx_f7fd79c9
+1765450130: Received PINGREQ from mqttx_f7fd79c9
+1765450130: Sending PINGRESP to mqttx_f7fd79c9
+1765450191: Received PINGREQ from mqttx_f7fd79c9
+1765450191: Sending PINGRESP to mqttx_f7fd79c9
+1765450254: Received PINGREQ from mqttx_f7fd79c9
+1765450254: Sending PINGRESP to mqttx_f7fd79c9
+1765450301: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765450301: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765450362: Received PINGREQ from mqttx_f7fd79c9
+1765450362: Sending PINGRESP to mqttx_f7fd79c9
+1765450423: Received PINGREQ from mqttx_f7fd79c9
+1765450423: Sending PINGRESP to mqttx_f7fd79c9
+1765450484: Received PINGREQ from mqttx_f7fd79c9
+1765450484: Sending PINGRESP to mqttx_f7fd79c9
+1765450545: Received PINGREQ from mqttx_f7fd79c9
+1765450545: Sending PINGRESP to mqttx_f7fd79c9
+1765450605: Received PINGREQ from mqttx_f7fd79c9
+1765450605: Sending PINGRESP to mqttx_f7fd79c9
+1765450667: Received PINGREQ from mqttx_f7fd79c9
+1765450667: Sending PINGRESP to mqttx_f7fd79c9
+1765450672: mosquitto version 2.0.22 terminating
+1765450672: Client mqttx_f7fd79c9 closed its connection.
+1765450677: mosquitto version 2.0.22 starting
+1765450677: Config loaded from /mosquitto/config/mosquitto.conf.
+1765450677: Opening ipv4 listen socket on port 1883.
+1765450677: Opening ipv6 listen socket on port 1883.
+1765450677: Opening websockets listen socket on port 9005.
+1765450677: mosquitto version 2.0.22 running
+1765450677: New client connected from 172.18.0.1:38162 as mqttx_f7fd79c9 (p5, c1, k60).
+1765450677: No will message specified.
+1765450677: Sending CONNACK to mqttx_f7fd79c9 (0, 0)
+1765450677: Received SUBSCRIBE from mqttx_f7fd79c9
+1765450677: 	BTS (QoS 0)
+1765450677: mqttx_f7fd79c9 0 BTS
+1765450677: Sending SUBACK to mqttx_f7fd79c9
+1765450679: New connection from 172.18.0.5:47774 on port 1883.
+1765450679: New client connected from 172.18.0.5:47774 as auto-EABB9F18-3967-D86D-A1C9-01863825EB9F (p2, c1, k60).
+1765450679: No will message specified.
+1765450679: Sending CONNACK to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F (0, 0)
+1765450679: Received SUBSCRIBE from auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450679: 	# (QoS 0)
+1765450679: auto-EABB9F18-3967-D86D-A1C9-01863825EB9F 0 #
+1765450679: Sending SUBACK to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450693: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765450693: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765450693: Sending PUBLISH to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F (d0, q0, r0, m0, 'BTS', ... (7 bytes))
+1765450740: Received PINGREQ from auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450740: Sending PINGRESP to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450754: Received PINGREQ from mqttx_f7fd79c9
+1765450754: Sending PINGRESP to mqttx_f7fd79c9
+1765450799: Received PINGREQ from auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450799: Sending PINGRESP to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450803: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765450803: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765450803: Sending PUBLISH to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F (d0, q0, r0, m0, 'BTS', ... (6 bytes))

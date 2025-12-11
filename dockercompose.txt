@@ -28,16 +28,7 @@ services:
     volumes: 
       - "/var/run/docker.sock:/var/run/docker.sock" 
       - "portainer_data:/data" 
-    restart: always
-    
-  mqtt_logger: 
-      image: eclipse-mosquitto 
-      depends_on: 
-        - mqtt_broker 
-      entrypoint: > 
-        sh -c 'sleep 2 && mosquitto_sub -h mqtt_broker -t "#" -v >> /mosquitto/log/messages.log' 
-      volumes: 
-        - ./VolumesMosquitto/log:/mosquitto/log
+    restart: always 
  
 volumes: 
-  portainer_data:
+  portainer_data: 
