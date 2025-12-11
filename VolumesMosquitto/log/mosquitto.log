@@ -48,3 +48,59 @@
 1765442759: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (7 bytes))
 1765442819: Received PINGREQ from postman-mqtt-client-1765442739770
 1765442819: Sending PINGRESP to postman-mqtt-client-1765442739770
+1765442879: Received PINGREQ from postman-mqtt-client-1765442739770
+1765442879: Sending PINGRESP to postman-mqtt-client-1765442739770
+1765442928: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765442928: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765442988: Received PINGREQ from postman-mqtt-client-1765442739770
+1765442988: Sending PINGRESP to postman-mqtt-client-1765442739770
+1765443048: Received PINGREQ from postman-mqtt-client-1765442739770
+1765443048: Sending PINGRESP to postman-mqtt-client-1765442739770
+1765443108: Received PINGREQ from postman-mqtt-client-1765442739770
+1765443108: Sending PINGRESP to postman-mqtt-client-1765442739770
+1765443156: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443156: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443157: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443158: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443159: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443159: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443159: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443159: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443159: Received PUBLISH from postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443159: Sending PUBLISH to postman-mqtt-client-1765442739770 (d0, q0, r0, m0, 'TopicControle', ... (13 bytes))
+1765443190: mosquitto version 2.0.22 terminating
+1765444413: mosquitto version 2.0.22 starting
+1765444413: Config loaded from /mosquitto/config/mosquitto.conf.
+1765444413: Opening ipv4 listen socket on port 1883.
+1765444413: Opening ipv6 listen socket on port 1883.
+1765444413: mosquitto version 2.0.22 running
