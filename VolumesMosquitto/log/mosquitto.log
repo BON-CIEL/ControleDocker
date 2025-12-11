@@ -722,3 +722,43 @@
 1765450803: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
 1765450803: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
 1765450803: Sending PUBLISH to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765450860: Received PINGREQ from auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450860: Sending PINGRESP to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450864: Received PINGREQ from mqttx_f7fd79c9
+1765450864: Sending PINGRESP to mqttx_f7fd79c9
+1765450920: Received PINGREQ from auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450920: Sending PINGRESP to auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450924: Received PINGREQ from mqttx_f7fd79c9
+1765450924: Sending PINGRESP to mqttx_f7fd79c9
+1765450930: Received DISCONNECT from auto-EABB9F18-3967-D86D-A1C9-01863825EB9F
+1765450930: Client auto-EABB9F18-3967-D86D-A1C9-01863825EB9F disconnected.
+1765450931: mosquitto version 2.0.22 terminating
+1765450931: Client mqttx_f7fd79c9 closed its connection.
+1765450949: mosquitto version 2.0.22 starting
+1765450949: Config loaded from /mosquitto/config/mosquitto.conf.
+1765450949: Opening ipv4 listen socket on port 1883.
+1765450949: Opening ipv6 listen socket on port 1883.
+1765450949: Opening websockets listen socket on port 9005.
+1765450949: mosquitto version 2.0.22 running
+1765450949: New client connected from 172.18.0.1:59730 as mqttx_f7fd79c9 (p5, c1, k60).
+1765450949: No will message specified.
+1765450949: Sending CONNACK to mqttx_f7fd79c9 (0, 0)
+1765450949: Received SUBSCRIBE from mqttx_f7fd79c9
+1765450949: 	BTS (QoS 0)
+1765450949: mqttx_f7fd79c9 0 BTS
+1765450949: Sending SUBACK to mqttx_f7fd79c9
+1765450951: New connection from 172.18.0.6:42802 on port 1883.
+1765450951: New client connected from 172.18.0.6:42802 as auto-CE95C966-4671-7C80-FDAD-3908EDAD191A (p2, c1, k60).
+1765450951: No will message specified.
+1765450951: Sending CONNACK to auto-CE95C966-4671-7C80-FDAD-3908EDAD191A (0, 0)
+1765450951: Received SUBSCRIBE from auto-CE95C966-4671-7C80-FDAD-3908EDAD191A
+1765450951: 	# (QoS 0)
+1765450951: auto-CE95C966-4671-7C80-FDAD-3908EDAD191A 0 #
+1765450951: Sending SUBACK to auto-CE95C966-4671-7C80-FDAD-3908EDAD191A
+1765450959: Received SUBSCRIBE from mqttx_f7fd79c9
+1765450959: 	CIEL/# (QoS 0)
+1765450959: mqttx_f7fd79c9 0 CIEL/#
+1765450959: Sending SUBACK to mqttx_f7fd79c9
+1765450965: Received PUBLISH from mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (2 bytes))
+1765450965: Sending PUBLISH to mqttx_f7fd79c9 (d0, q0, r0, m0, 'BTS', ... (2 bytes))
+1765450965: Sending PUBLISH to auto-CE95C966-4671-7C80-FDAD-3908EDAD191A (d0, q0, r0, m0, 'BTS', ... (2 bytes))
